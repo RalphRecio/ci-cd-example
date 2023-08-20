@@ -8,7 +8,7 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 var app = builder.Build();
-//sample
+//sample asllas
 
 app.UseSwagger();
 app.UseSwaggerUI();
