@@ -11,7 +11,7 @@ jobs:
 
 
     steps:
-    - uses: actions/checkouts@v3
+    - uses: actions/checkout@v3
 
     - name: Setup .NET
       uses: actions/setup-dotnet@v3
